@@ -6,8 +6,8 @@
 ##########################################################################
                      API="API_local" 
                      google_sheet="https://docs.google.com/spreadsheets/d/197D5pg3u4TqF4dy7xdCgAv11NVuCgg9A0o0xiXGqF_k/edit?gid=1610289956#gid=1610289956" 
-                     id="8"                 #เปลี่ยน id ทุกครั้งที่ยิง
-                     user="7500";            #จำนวนผู้ใช้งาน
+                     id="10"                 #เปลี่ยน id ทุกครั้งที่ยิง
+                     user="10000";            #จำนวนผู้ใช้งาน
                      duration="1";         #วินาที
                      scenario="1"           #scenario="1" ยิงเเบบกำหนด request (duration ได้แค่ 1 วินาที)
                      cid="1"                #scenario="2" ยิงเเบบกำหนด VUs  (กำหนดว่า user x คน ใช้ระบบ x วินาที)
